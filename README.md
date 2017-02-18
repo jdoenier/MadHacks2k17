@@ -1,2 +1,3 @@
 # MadHacks2k17
-# MadHacks2k17
+
+Project for Madhacks Hackathon 2017
